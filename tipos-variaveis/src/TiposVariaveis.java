@@ -16,5 +16,6 @@ public class TiposVariaveis {
 
         //Para determinarmos uma constante é necessário que utilizemos da key ´final´
         final double VALOR_DE_PI = 3.14;
+        System.out.println(VALOR_DE_PI);
     }
 }
