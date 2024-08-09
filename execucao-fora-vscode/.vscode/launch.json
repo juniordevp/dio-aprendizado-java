@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMeTwo",
+            "request": "launch",
+            "mainClass": "AboutMeTwo",
+            "projectName": "execucao-fora-vscode_77bd9e86"
+        },
+        {
+            "type": "java",
             "name": "MinhaClasse",
             "request": "launch",
             "mainClass": "MinhaClasse",
